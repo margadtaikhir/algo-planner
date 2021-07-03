@@ -1,0 +1,16 @@
+.modal-container{
+    .title h2{
+        font-weight: bold;
+    }
+
+    img, video, embed{
+        max-height: 500px;
+        height: 100%;
+        width: 100%;
+    }
+
+    embed{
+        height: 500px;
+    }
+
+}

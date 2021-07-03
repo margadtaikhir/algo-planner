@@ -1,0 +1,28 @@
+.card-container {
+    margin-bottom: 1.3rem;
+    border-radius: 6px;
+
+    span.title-container {
+        font-weight: bold;
+        display: flex;
+        justify-content: space-between;
+        width: 98%;
+    }
+
+    span.size{
+        font-weight: 400;
+        font-size: 1.4rem;
+    }
+
+    :hover{
+        cursor: pointer;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .card-container{
+        span.title-container{
+            flex-direction: column;
+        }
+    }
+}

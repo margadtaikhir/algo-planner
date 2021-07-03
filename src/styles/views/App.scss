@@ -1,0 +1,11 @@
+body{
+    background-color: #9ccfd0;
+}
+
+.main-container{
+    height: 100vh;
+
+    .column{
+        flex-direction: column;
+    }
+}
