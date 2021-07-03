@@ -1,6 +1,6 @@
 # Web app
 
-https://margadtaikhir.github.io/algo-planner
+https://margadtaikhir.github.io/algo-planner/
 
 ## Available Scripts
 
