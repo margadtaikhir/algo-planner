@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/algo-planner/static/css/main.1ec1e835.chunk.css",
+    "main.js": "/algo-planner/static/js/main.fe97fc31.chunk.js",
+    "main.js.map": "/algo-planner/static/js/main.fe97fc31.chunk.js.map",
+    "runtime-main.js": "/algo-planner/static/js/runtime-main.6f690d8f.js",
+    "runtime-main.js.map": "/algo-planner/static/js/runtime-main.6f690d8f.js.map",
+    "static/js/2.15aa100e.chunk.js": "/algo-planner/static/js/2.15aa100e.chunk.js",
+    "static/js/2.15aa100e.chunk.js.map": "/algo-planner/static/js/2.15aa100e.chunk.js.map",
+    "static/js/3.580d95a0.chunk.js": "/algo-planner/static/js/3.580d95a0.chunk.js",
+    "static/js/3.580d95a0.chunk.js.map": "/algo-planner/static/js/3.580d95a0.chunk.js.map",
+    "index.html": "/algo-planner/index.html",
+    "static/css/main.1ec1e835.chunk.css.map": "/algo-planner/static/css/main.1ec1e835.chunk.css.map",
+    "static/js/2.15aa100e.chunk.js.LICENSE.txt": "/algo-planner/static/js/2.15aa100e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f690d8f.js",
+    "static/js/2.15aa100e.chunk.js",
+    "static/css/main.1ec1e835.chunk.css",
+    "static/js/main.fe97fc31.chunk.js"
+  ]
+}
